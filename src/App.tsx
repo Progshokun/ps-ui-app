@@ -7,7 +7,6 @@ import { useHotkeys } from "react-hotkeys-hook";
 import type { SwiperRef } from "swiper/react";
 import { KeyNum } from "./config/hotkeys.config";
 import { CATEGORIES } from "./data/categories.data";
-import GameDetails from "./components/GameDetails/GameDetails";
 
 type TlevelFocus = "top-menu" | "game-carousel" | "details";
 
@@ -60,7 +59,6 @@ function App() {
         setActiveCategory={setActiveCategory}
       />
       <GameCarousel swiperRef={swiperRef} />
-      <GameDetails />
     </div>
   );
 }
