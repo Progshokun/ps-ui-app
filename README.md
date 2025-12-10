@@ -55,9 +55,8 @@ pnpm run test        # или pnpm run test:ui для UI-режима
 └── package.json        # зависимости и скрипты
 ```
 
-## 📸 Скриншоты / Demo
-
-![image alt]([https://github.com/Progshokun/Betflix/blob/main/preview.jpg?raw=true](https://github.com/Progshokun/ps-ui-app/blob/main/preview.jpg?raw=true))
+## 📸 Превью  
+![image alt](https://github.com/Progshokun/ps-ui-app/blob/main/preview.jpg?raw=true)
 
 
 
